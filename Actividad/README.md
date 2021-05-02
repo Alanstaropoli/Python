@@ -15,3 +15,13 @@ Para ejecutar el programa:
 
 2. <b> Ejecute run.py con python:
     <br>```python run.py```
+
+## Recursos
+<i>Todos los recursos son de libre uso.</i>
+
+* Datasets: 
+
+    * Trigo en Argentina: https://datos.gob.ar/dataset/agroindustria-trigo---siembra-cosecha-produccion-rendimiento
+
+    * Turismo receptivo en Argentina: https://datos.gob.ar/dataset/turismo-turismo-receptivo
+
